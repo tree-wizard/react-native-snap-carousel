@@ -1,4 +1,6 @@
 {
-  "name": "example",
-  "displayName": "example"
+  "name": "snapCarousel",
+  "displayName": "Snap Carousel",
+    "privacy": "public",
+    "sdkVersion": "36.0.0"
 }
